@@ -1,0 +1,8 @@
+.links-navegacao{
+    letter-spacing: 3px;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: var(--cor-links-navegacao);
+
+}

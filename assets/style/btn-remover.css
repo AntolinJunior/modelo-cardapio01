@@ -1,0 +1,10 @@
+.btn-remover {
+    padding: 0.5rem;
+    background-color: transparent;
+    color: var(--cor-btn-remover);
+    border: none;
+    width: 120px;
+    font-size: 10px;
+    letter-spacing: 2px;
+    margin-top: 10px;
+}

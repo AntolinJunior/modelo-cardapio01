@@ -1,0 +1,30 @@
+/* cabeçalho */
+
+:root {
+    --cor-cabecalho: #faa72c;
+    --cor-lista-navegacao: #fbbd47;
+
+    --cor-links-navegacao: black;
+    --cor-footer: #faa72c;
+}
+
+/* lista-navegação */
+
+:root {
+    --cor-lista-navegacao: #fbbd47;
+
+}
+
+/* container-item-p */
+
+:root {
+    --cor-container-tem-p: linear-gradient(#781b77, #9a3c99,#bc5eba , #dd7fdc,#ffa0fd );
+    --cor-fundo-preco: red;
+    --cor-borda-preco: yellow;
+    --cor-btn-adicionar: white;
+    --cor-btn-remover: red;
+    --borda-inferior-p:red;
+    --cor-paragrafo:black;
+    --cor-sombra-paragrafo:red;
+    --cor-fundo-titulo-pizza-container:red;
+}

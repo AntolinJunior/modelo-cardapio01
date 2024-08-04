@@ -1,0 +1,11 @@
+.btn-adicionar{
+    padding: 0.5rem;
+    background-color: transparent ;
+    color: var(--cor-btn-adicionar);
+    border: none;
+    width: 130px;
+    font-size: 9px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+

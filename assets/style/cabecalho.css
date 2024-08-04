@@ -1,0 +1,12 @@
+#cabecalho {
+    background-color: var(--cor-cabecalho);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.5rem;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    top: 0;
+
+}
